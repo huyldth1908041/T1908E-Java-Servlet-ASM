@@ -41,8 +41,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Application screenshots
 Dashboard page
 ![image](https://user-images.githubusercontent.com/63459413/119268721-6e452c80-bc1e-11eb-9d9d-aeed7a99a5a9.png)
-Create food
+
+Create new food
 ![image](https://user-images.githubusercontent.com/63459413/119268759-92087280-bc1e-11eb-985f-f5a71cb147f2.png)
+
+Edit an exist food
+![image](https://user-images.githubusercontent.com/63459413/119268880-1fe45d80-bc1f-11eb-8e6b-c75b54fc8c3a.png)
+
 Manage list food
 ![image](https://user-images.githubusercontent.com/63459413/119268778-a9dff680-bc1e-11eb-82a0-daf9572e21e8.png)
 
