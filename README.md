@@ -38,7 +38,7 @@ To manage list food category navigate to /admin/category
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#Application screenshots
+## Application screenshots
 Dashboard page
 ![image](https://user-images.githubusercontent.com/63459413/119268721-6e452c80-bc1e-11eb-9d9d-aeed7a99a5a9.png)
 Create food
