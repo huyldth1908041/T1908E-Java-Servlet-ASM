@@ -1,9 +1,9 @@
 # HM RESTAURANT
 
-Hm restaurant is a web app allow user to add, modify, delete food in restaurant
+Hm restaurant is a web app allowing user to add, modify, delete food in restaurant
 
 
-## Instalations
+## Installation
 
 Edit database configurations in uttil/ConnectionHelper.java
 
