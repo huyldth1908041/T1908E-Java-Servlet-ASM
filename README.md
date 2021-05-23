@@ -26,17 +26,15 @@ Run web app in localhoast use tomcat server
 
 type /admin to go to dashboard page
 
-Use left menu to navigate in web sites Or:
+Use left menu to navigate in web sites or you can type:
 
-To create new food go to /admin/food/create
+/admin/food/create to go to create new food page
 
-To manage list food navigate to /admin/food
+/admin/food to navigate to manage foods page
 
-To create new food category go to /admin/category/create
+/admin/category/create to create new category
 
-To manage list food category navigate to /admin/category
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+/admin/category to see all cateogories in restaurant
 
 ## Application screenshots
 Dashboard page
